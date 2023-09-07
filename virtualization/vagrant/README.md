@@ -10,7 +10,7 @@
 - VS Code Remote SSH
 
 ## Introduction
-Vagrant manages or automates VM lifecycle.
+The most efficient way to create VMs is to create them automatically through code, so it become repeatable and easy. Vagrant is a VM automation tool which uses Hypervisor like Oracle Virtualbox to manage and automate VM lifecycle on our laptops/desktops.
 
 ### VM Management Problems
 - OS installations

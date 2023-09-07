@@ -22,7 +22,7 @@ Enable virtualization in BIOS
 - Power on your computer
 
 ## Oracle Virtualbox
-Install Oracle Virtualbox from https://www.virtualbox.org/
+Oracle Virtualbox is a Hypervisor to manage local virtual machines. Install Oracle Virtualbox from https://www.virtualbox.org/
 
 ### Centos 7
 Steps: 
