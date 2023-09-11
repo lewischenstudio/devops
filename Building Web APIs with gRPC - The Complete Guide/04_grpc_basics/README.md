@@ -184,7 +184,7 @@ Client  -----------------------------------> Server
 - Generates client code in supported languages
 
 #### Example
-```c#
+```cs
 syntax="proto3";
 package GRPC.Course.Employee;
 
