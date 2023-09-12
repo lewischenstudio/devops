@@ -43,13 +43,13 @@ Signature={sig 4 _hash}
 - Remote
 - Web
 
-![Operating System API](https://github.com/lcycstudio/kubernetes/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/02_api_basics/os_api.png)
+![Operating System API](https://github.com/lcycstudio/devops/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/02_api_basics/os_api.png)
 
-![Library API](https://github.com/lcycstudio/kubernetes/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/02_api_basics/library_api.png)
+![Library API](https://github.com/lcycstudio/devops/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/02_api_basics/library_api.png)
 
-![Remote API](https://github.com/lcycstudio/kubernetes/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/02_api_basics/remote_api.png)
+![Remote API](https://github.com/lcycstudio/devops/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/02_api_basics/remote_api.png)
 
-![Web API](https://github.com/lcycstudio/kubernetes/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/02_api_basics/web_api.png)
+![Web API](https://github.com/lcycstudio/devops/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/02_api_basics/web_api.png)
 
 
 ### Importance of API

@@ -51,7 +51,7 @@ Steps
 - Click the play button 
 - Observe the response to display a random number `{ "room_id": 56 }`
 
-![Architecture](https://github.com/lcycstudio/kubernetes/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/08_building_the_groom_server/bloolm_rpc.png)
+![Architecture](https://github.com/lcycstudio/devops/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/08_building_the_groom_server/bloolm_rpc.png)
 
 
 

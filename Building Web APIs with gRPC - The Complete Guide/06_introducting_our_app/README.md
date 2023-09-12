@@ -30,7 +30,7 @@ The Modern Chat Room
 - Admin console
 
 #### Architecture
-![Architecture](https://github.com/lcycstudio/kubernetes/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/06_introducting_our_app/gRoom.png)
+![Architecture](https://github.com/lcycstudio/devops/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/06_introducting_our_app/gRoom.png)
 
 
 

@@ -90,7 +90,7 @@ message Employee{
 - Allows access to the mesage's fields and to the services
 - Handles serialization, deserialization and more
 
-![Generated Code](https://github.com/lcycstudio/kubernetes/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/07_protobuf/generated_code.png)
+![Generated Code](https://github.com/lcycstudio/devops/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/07_protobuf/generated_code.png)
 
 
 

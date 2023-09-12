@@ -102,7 +102,7 @@ DUring the years it was found that there are 3 major problems with REST:
   - Used mainly from native mobile apps and in the backend
   - There is a workaround
 
-![HTTP](https://github.com/lcycstudio/kubernetes/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/04_grpc_basics/http.png)
+![HTTP](https://github.com/lcycstudio/devops/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/04_grpc_basics/http.png)
 
 
 #### RPC Style
@@ -123,7 +123,7 @@ DUring the years it was found that there are 3 major problems with REST:
 - RPC
   - We have to know the name of the method on the server
 
-![RPC Method](https://github.com/lcycstudio/kubernetes/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/04_grpc_basics/rpc_method.png)
+![RPC Method](https://github.com/lcycstudio/devops/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/04_grpc_basics/rpc_method.png)
 
 
 ### Communication Styles

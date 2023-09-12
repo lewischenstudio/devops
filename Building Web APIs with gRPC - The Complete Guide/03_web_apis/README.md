@@ -40,7 +40,7 @@ Differentiated mainly by
 - Outdated
 - Do not use, unless have to
 
-![SOAP](https://github.com/lcycstudio/kubernetes/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/03_web_apis/soap.png)
+![SOAP](https://github.com/lcycstudio/devops/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/03_web_apis/soap.png)
 
 
 #### REST
@@ -66,7 +66,7 @@ Differentiated mainly by
 - Requires performance optimization 
 - Gains groud (ie, Github)
 
-![REST](https://github.com/lcycstudio/kubernetes/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/03_web_apis/rest.png)
+![REST](https://github.com/lcycstudio/devops/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/03_web_apis/rest.png)
 
 
 #### GraphQL
@@ -75,7 +75,7 @@ Differentiated mainly by
 - Enables very flexible querying, updating and subscribing to data changes
 - JSON in & out
 
-![GraphQL](https://github.com/lcycstudio/kubernetes/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/03_web_apis/graphQL.png)
+![GraphQL](https://github.com/lcycstudio/devops/blob/master/Building%20Web%20APIs%20with%20gRPC%20-%20The%20Complete%20Guide/03_web_apis/graphQL.png)
 
 
 #### gRPC
