@@ -1,0 +1,10 @@
+C:\Users\lcyc2\dev\grpc\fullroomclient\publish\fullroomclient.exe
+C:\Users\lcyc2\dev\grpc\fullroomclient\publish\fullroomclient.dll
+C:\Users\lcyc2\dev\grpc\fullroomclient\publish\fullroomclient.runtimeconfig.json
+C:\Users\lcyc2\dev\grpc\fullroomclient\publish\fullroomclient.pdb
+C:\Users\lcyc2\dev\grpc\fullroomclient\publish\Google.Protobuf.dll
+C:\Users\lcyc2\dev\grpc\fullroomclient\publish\Grpc.Core.Api.dll
+C:\Users\lcyc2\dev\grpc\fullroomclient\publish\Grpc.Net.Client.dll
+C:\Users\lcyc2\dev\grpc\fullroomclient\publish\Grpc.Net.Common.dll
+C:\Users\lcyc2\dev\grpc\fullroomclient\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lcyc2\dev\grpc\fullroomclient\publish\fullroomclient.deps.json

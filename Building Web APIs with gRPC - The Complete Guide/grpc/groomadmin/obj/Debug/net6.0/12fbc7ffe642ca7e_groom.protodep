@@ -1,0 +1,4 @@
+obj\Debug\net6.0\Protos/Groom.cs \
+obj\Debug\net6.0\Protos/GroomGrpc.cs: C:/Users/lcyc2/.nuget/packages/grpc.tools/2.47.0/build/native/include/google/protobuf/timestamp.proto\
+ C:/Users/lcyc2/.nuget/packages/grpc.tools/2.47.0/build/native/include/google/protobuf/empty.proto\
+ Protos/groom.proto
