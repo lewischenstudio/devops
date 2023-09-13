@@ -54,7 +54,6 @@
 
 ### Agenda
 - Welcome
-- Welcome
 - API Basics
 - Web APIs
 - gRPC Basics
