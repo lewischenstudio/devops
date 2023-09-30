@@ -2,9 +2,9 @@
 
 #### Table of Contents
 
-- The Basic Set
-- The Extended Set
-- Replace with Capture Groups
+- [The Basic Set](#the-basic-set)
+- [The Extended Set](#the-extended-set)
+- [Replace with Capture Groups](#replace-with-capture-groups)
 
 ### The Basic Set
 
