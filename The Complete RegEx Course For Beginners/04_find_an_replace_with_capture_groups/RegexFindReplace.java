@@ -10,6 +10,7 @@ public class RegexFindReplace {
 		// The regex pattern
 		final String REGEX_PATTERN = "([0-9]+)x([0-9]+)";
 		final String inputFileName = "regex25.txt";
+		
 		// Create a Pattern object
 		Pattern r = Pattern.compile(REGEX_PATTERN);
 

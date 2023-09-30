@@ -14,18 +14,18 @@
 
 ### Introduction
 
-#### POSIX
+#### RegEx: The Basic Set
 
 | **Symbol** | <center>**What does it represent?** </center>                                      |
 | ---------- | ---------------------------------------------------------------------------------- |
-| \*         | Zero or more occurrences of the character that precedes this asterisk              |
-| .          | A wildcard that represents any character                                           |
-| \s         | Represents whitespace                                                              |
-| [pqr]      | A single character which can be either a "p", "q" or an "r"                        |
-| [a-d]      | A single character that falls in the range "a-d", i.e. one of "a", "b", "c" or "d" |
-| [^pq]      | A single character that is neither "p" nor "q"                                     |
-| ^pattern   | ^ is an anchor tag that represents the beginning of the line                       |
-| pattern$   | $ is an anchor tag that represents the end of the line                             |
+| `\*`       | Zero or more occurrences of the character that precedes this asterisk              |
+| `.`        | A wildcard that represents any character                                           |
+| `\s`       | Represents whitespace                                                              |
+| `[pqr]`    | A single character which can be either a "p", "q" or an "r"                        |
+| `[a-d]`    | A single character that falls in the range "a-d", i.e. one of "a", "b", "c" or "d" |
+| `[^pq]`    | A single character that is neither "p" nor "q"                                     |
+| `^`pattern | `^` is an anchor tag that represents the beginning of the line                     |
+| pattern`$` | `$` is an anchor tag that represents the end of the line                           |
 
 ### The Wildcard Symbol
 
@@ -42,7 +42,7 @@ foocbar
 
 [regex02.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex02.txt)
 
-```
+```bash
 grep 'foo.bar' regex02.txt
 
 Output:
@@ -67,7 +67,7 @@ foozbar
 
 [regex03.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex03.txt)
 
-```
+```bash
 grep 'foo.*bar' regex03.txt
 
 Output:
@@ -94,7 +94,7 @@ foo <0 spaces> bar
 
 [regex04.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex04.txt)
 
-```
+```bash
 grep 'foo\s*bar' regex04.txt
 
 Output:
@@ -119,7 +119,7 @@ loo
 
 [regex05.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex05.txt)
 
-```
+```bash
 grep '[fcl]oo' regex05.txt
 
 Output:
@@ -141,7 +141,7 @@ boo
 
 [regex06.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex06.txt)
 
-```
+```bash
 grep '[fcdplb]oo' regex06.txt
 
 Output:
@@ -160,7 +160,7 @@ boo
 
 [regex07.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex07.txt)
 
-```
+```bash
 grep '[^mh]oo' regex07.txt
 
 Output:
@@ -188,7 +188,7 @@ moo
 
 [regex08.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex08.txt)
 
-```
+```bash
 grep '[j-m]oo' regex08.txt
 
 Output:
@@ -213,7 +213,7 @@ zoo
 
 [regex09.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex09.txt)
 
-```
+```bash
 grep '[j-mz]oo' regex09.txt
 
 Output:
@@ -239,7 +239,7 @@ zoo
 
 [regex10.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex10.txt)
 
-```
+```bash
 grep '[j-mJ-Mz]oo' regex10.txt
 
 Output:
@@ -265,7 +265,7 @@ x.yy
 
 [regex11.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex11.txt)
 
-```
+```bash
 grep 'x*\.y*' regex11.txt
 
 Output:
@@ -286,7 +286,7 @@ x.y
 
 [regex12.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex12.txt)
 
-```
+```bash
 grep 'x[#:.]y' regex12.txt
 
 Output:
@@ -308,7 +308,7 @@ x^y
 
 [regex13.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex13.txt)
 
-```
+```bash
 grep 'x[#:\^]y' regex13.txt
 
 Output:
@@ -330,7 +330,7 @@ x^y
 
 [regex14.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex14.txt)
 
-```
+```bash
 grep 'x[#\\\^]y' regex14.txt
 
 Output:
@@ -354,7 +354,7 @@ foo baz bar
 
 [regex15.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex15.txt)
 
-```
+```bash
 grep '^foo.*' regex15.txt
 
 Output:
@@ -373,7 +373,7 @@ foo baz bar
 
 [regex16.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex16.txt)
 
-```
+```bash
 grep '.*bar$' regex16.txt
 
 Output:
@@ -392,7 +392,7 @@ foo
 
 [regex17.txt](/courses/The%20Complete%20RegEx%20Course%20For%20Beginners/02_the_basic_set/regex17.txt)
 
-```
+```bash
 grep '^foo$' regex17.txt
 
 Output:
