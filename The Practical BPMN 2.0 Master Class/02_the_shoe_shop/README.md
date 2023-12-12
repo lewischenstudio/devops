@@ -100,7 +100,9 @@ manager** is hired.
 
 ### Summary
 
-![BPMN Toolkit](./bpmn_toolkit.png)
+<div align="center">
+<img src="./bpmn_toolkit.png" width="50%">
+</div>
 
 ### Quiz 1: Quiz
 
