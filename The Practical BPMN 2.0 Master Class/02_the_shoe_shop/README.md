@@ -16,7 +16,7 @@
 ### Theory - Task, Start & End Event, Pools & Lanes
 
 <div align="center">
-<img src="./core_objects.png" width="50%">
+<img src="./core_objects.png" width="70%">
 </div>
 
 <table>
@@ -101,7 +101,7 @@ manager** is hired.
 ### Summary
 
 <div align="center">
-<img src="./bpmn_toolkit.png" width="50%">
+<img src="./bpmn_toolkit.png" width="70%">
 </div>
 
 ### Quiz 1: Quiz
@@ -136,8 +136,8 @@ www.BPMN.io --> Try Online --> [New Diagram](https://demo.bpmn.io/new)
 
 ### Exercise
 
-Max is facing a new challenge. He receives a shipment from the wholesaler and
-doesn’t know what to do next. His boss tells him:
+Max is facing a **new challenge**. He receives a shipment from the wholesaler
+and doesn’t know what to do next. His boss tells him:
 
 No worries Max. First you check whether the order and the invoice are correct.
 If not, you give the package back to the shipping clerk. If it’s correct you
@@ -145,8 +145,8 @@ check if it’s a standard order or if it’s an ordered by a customer. If it’
 standard order you simply put the shoes into the warehouse. If it’s an order for
 a customer, put the shoes behind the cash deck and that’s it!
 
-Your job now is to help Max by creating a simple process. Ignore the tasks of
-the shipping clerk for now. Just model what Max needs to do.
+Your job now is to help Max by **creating a simple process**. Ignore the tasks
+of the shipping clerk for now. Just model what Max needs to do.
 
 ![Exercise Diagram](./exercise_diagram.svg)
 

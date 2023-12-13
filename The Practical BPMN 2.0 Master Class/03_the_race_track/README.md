@@ -19,14 +19,14 @@ start to end event. The **token** passes all kinds of tasks and gateways that
 impact it.
 
 <div align="center">
-<img src="./tasks.png" width="50%">
+<img src="./tasks.png" width="70%">
 </div>
 
 The real **strength** of the **token concept** is to **visualize** how different
 **gateways** work. The token follows the selected path.
 
 <div align="center">
-<img src="./token_path.png" width="50%">
+<img src="./token_path.png" width="70%">
 </div>
 
 ### Theory - Parallel Gateway
@@ -67,7 +67,7 @@ The real **strength** of the **token concept** is to **visualize** how different
 </table>
 
 <div align="center">
-<img src="./not_equal.png" width="50%">
+<img src="./not_equal.png" width="70%">
 </div>
 
 Build **mental bridges** to clearly **distinguish** the **gateways**.
@@ -92,7 +92,7 @@ The **token concept empowers** you to understand **even** complex business
 processes.
 
 <div align="center">
-<img src="./bpmn_toolkit_2.png" width="50%">
+<img src="./bpmn_toolkit_2.png" width="70%">
 </div>
 
 ### Quiz 2: Quiz
