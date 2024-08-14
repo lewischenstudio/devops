@@ -201,3 +201,12 @@ export PS1='\[\e[0;32m\]\u@\h\[\e[m\] \[\e[1;36m\]\w\[\e[1;33m\] $(parse_git_bra
 export CLICOLOR=1
 export LSCOLORS=gxfxcxdxbxegedabagacad
 ```
+
+### Git Alias
+
+```bash
+git config --global alias.co checkout
+git config --global alias.br branch
+git config --global alias.ci commit
+git config --global alias.st status
+```
